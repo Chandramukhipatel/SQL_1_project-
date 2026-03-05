@@ -1,37 +1,29 @@
-🏦 Banking Loan Risk Analytics System
-📌 Project Objective
+Banking Loan Risk Analytics System
+Project Objective
 
 This project simulates a real-world banking analytics system used in financial institutions like:
 
 HDFC Bank
-
 ICICI Bank
-
 Axis Bank
 
 The objective is to analyze customer data, loan risk, transactions, and overall financial health of the bank.
-
-🗂 Database Structure (ER Overview)
+ Database Structure (ER Overview)
 
 Entities:
 
 Customers
-
 Accounts
-
 Loans
-
 Transactions
 
 Relationships:
 
 One customer → Multiple accounts
-
 One customer → Multiple loans
-
 One account → Multiple transactions
 
-📊 Business Insights Generated
+ Business Insights Generated
 
 ✔ Total bank balance
 ✔ City-wise credit analysis
@@ -41,7 +33,7 @@ One account → Multiple transactions
 ✔ Running transaction totals
 ✔ Loan risk categorization
 
-🛠 Skills Used
+Skills Used
 
 SQL Joins
 
@@ -55,13 +47,13 @@ Foreign Keys & Relational Design
 
 Business KPI Analysis
 
-🚀 Tools Used
+* Tools Used
 
 MySQL
 
 SQL Workbench
 
-📈 Future Improvements
+ Future Improvements
 
 EMI calculation system
 
